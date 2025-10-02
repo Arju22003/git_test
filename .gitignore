@@ -1,0 +1,3 @@
+# ISme jo bhi file ka name rahega usko ignore karna hai
+node_modules
+.env
