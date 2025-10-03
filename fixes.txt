@@ -11,3 +11,5 @@ fifth bug fixed
 2026 footer note added
 
 another fixe message for pink mode
+
+another fixe message for purple mode
